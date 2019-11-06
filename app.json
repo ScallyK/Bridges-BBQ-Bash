@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Bridges BBQ Bash Festival ",
+    "slug": "bridgesbbqandbrew",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "ios": {
+      "bundleIdentifier": "com.scallyk.bridgesapp"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "The official Bridges Training Foundation BBQ Bash App "
+  }
+}
